@@ -6,7 +6,7 @@ Official installation metadata for Ultimate VJ binary releases.
 brew tap weswalz/ultimatevj
 ```
 
-No installable cask has been published yet. After the first verified release appears:
+The install command below becomes available once the first verified release and cask are published:
 
 ```sh
 brew install --cask weswalz/ultimatevj/ultimatevj
