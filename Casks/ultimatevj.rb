@@ -8,7 +8,7 @@ cask "ultimatevj" do
   homepage "https://github.com/weswalz/ULTIMATEVJ-releases"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "ULTIMATEVJ.app"
 
