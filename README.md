@@ -6,9 +6,10 @@ Official installation metadata for Ultimate VJ binary releases.
 brew tap weswalz/ultimatevj
 ```
 
-The install command below becomes available once the first verified release and cask are published:
+Install Ultimate VJ after updating Homebrew:
 
 ```sh
+brew update
 brew install --cask weswalz/ultimatevj/ultimatevj
 ```
 
