@@ -1,8 +1,8 @@
 cask "ultimatevj" do
-  version "0.2.4,13"
-  sha256 "19a82285ed2fbdc2f3a6a1b8f2d4c8e73e2d9099027f0bc22872318b2cfa09ec"
+  version "0.3.0,1"
+  sha256 "77efd9dbf5adb1b5396478ed89409490f09d5763ad07fb7646e6053e56fecfeb"
 
-  url "https://github.com/weswalz/ULTIMATEVJ-releases/releases/download/v0.2.4-13/ULTIMATEVJ-0.2.4-13-arm64.zip"
+  url "https://github.com/weswalz/ULTIMATEVJ-releases/releases/download/v0.3.0-1/ULTIMATEVJ-0.3.0-1-arm64.zip"
   name "Ultimate VJ"
   desc "Clip playback and native RenderWave visuals for live venues"
   homepage "https://github.com/weswalz/ULTIMATEVJ-releases"
@@ -13,7 +13,7 @@ cask "ultimatevj" do
   app "ULTIMATEVJ.app"
 
   caveats <<~EOS
-    Venue test preview: the full playback soak and venue output qualification are pending.
+    Research Preview: the full playback soak and venue output qualification are pending.
     Install or update between shows and quit UltimateVJ before updating.
   EOS
 end
