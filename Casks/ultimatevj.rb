@@ -1,8 +1,8 @@
 cask "ultimatevj" do
-  version "0.2.2,8"
-  sha256 "50c2151a8bc56a808f04d52170215802559fa0769068b7094ca50cc0a9ccf4e0"
+  version "0.2.3,12"
+  sha256 "5b89f943b47173273a2d739d932ad987b3d294f4b772b43d8b23521495a4174d"
 
-  url "https://github.com/weswalz/ULTIMATEVJ-releases/releases/download/v0.2.2-8/ULTIMATEVJ-0.2.2-8-arm64.zip"
+  url "https://github.com/weswalz/ULTIMATEVJ-releases/releases/download/v0.2.3-12/ULTIMATEVJ-0.2.3-12-arm64.zip"
   name "Ultimate VJ"
   desc "Clip playback and native RenderWave visuals for live venues"
   homepage "https://github.com/weswalz/ULTIMATEVJ-releases"
