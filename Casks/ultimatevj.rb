@@ -13,7 +13,7 @@ cask "ultimatevj" do
   app "ULTIMATEVJ.app"
 
   caveats <<~EOS
-    Alpha: the full playback soak and venue output qualification are pending.
+    Ultimate VJ Alpha.
     Install or update between shows and quit UltimateVJ before updating.
   EOS
 end
