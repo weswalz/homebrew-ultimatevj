@@ -1,6 +1,6 @@
 cask "ultimatevj" do
-  version "0.4.1,5"
-  sha256 "acd22c09e52c6d689951fa4e9a9d2b3a5e5df3923c25224cb7f862ec80f05b0f"
+  version "0.4.1,6"
+  sha256 "369717217ba8cf1eb7e946078aec2d015ef402f00453389c05c655297cc1d2e5"
 
   url "https://ultimatevj.com/download/homebrew/0.4.1"
   name "Ultimate VJ"
