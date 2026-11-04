@@ -1,8 +1,8 @@
 cask "ultimatevj" do
-  version "0.4.3,8"
-  sha256 "c83f0798c26af0d474da4a4f4c82ccbc147ec9137c9b1341538ae96b653c09cb"
+  version "0.4.7,27"
+  sha256 "380a5645bd48c4ebe7f9da66444ff339852b8504c2cc0c56583376dac27d3dff"
 
-  url "https://ultimatevj.com/download/homebrew/0.4.3"
+  url "https://ultimatevj.com/download/homebrew/0.4.7"
   name "Ultimate VJ"
   desc "Clip playback and native RenderWave visuals for live venues"
   homepage "https://github.com/weswalz/ULTIMATEVJ-releases"
