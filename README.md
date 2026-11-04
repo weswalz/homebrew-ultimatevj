@@ -8,6 +8,8 @@
 
 For the product overview, technical details, and release notes, visit [Ultimate VJ](https://github.com/weswalz/ULTIMATEVJ-releases).
 
+Current release: **[0.4.7](https://github.com/weswalz/ULTIMATEVJ-releases/releases/tag/v0.4.7)** · [Download for Mac](https://ultimatevj.com/download/mac/0.4.7).
+
 ## Install
 
 Requires **Apple Silicon**, **macOS 26 Tahoe or later**, and **Homebrew**.
