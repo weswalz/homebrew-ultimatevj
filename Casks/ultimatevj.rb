@@ -1,8 +1,8 @@
 cask "ultimatevj" do
-  version "0.4.7,27"
-  sha256 "380a5645bd48c4ebe7f9da66444ff339852b8504c2cc0c56583376dac27d3dff"
+  version "0.5.0,39"
+  sha256 "d4e42533c2e73c63ed2ddea4252d87c853b8548bd22f353a28668d7580f6bdae"
 
-  url "https://ultimatevj.com/download/homebrew/0.4.7"
+  url "https://ultimatevj.com/download/homebrew/0.5.0"
   name "Ultimate VJ"
   desc "Clip playback and native RenderWave visuals for live venues"
   homepage "https://github.com/weswalz/ULTIMATEVJ-releases"
@@ -13,7 +13,7 @@ cask "ultimatevj" do
   app "ULTIMATEVJ.app"
 
   caveats <<~EOS
-    Ultimate VJ Alpha.
+    Ultimate VJ Beta.
     Install or update between shows and quit UltimateVJ before updating.
   EOS
 end
