@@ -8,7 +8,7 @@
 
 For the product overview, technical details, and release notes, visit [Ultimate VJ](https://github.com/weswalz/ULTIMATEVJ-releases).
 
-Current release: **[0.4.7](https://github.com/weswalz/ULTIMATEVJ-releases/releases/tag/v0.4.7)** · [Download for Mac](https://ultimatevj.com/download/mac/0.4.7).
+Current release: **[0.6.0 Beta 2](https://github.com/weswalz/ULTIMATEVJ-releases/releases/tag/v0.6.0)** · [Download for Mac](https://ultimatevj.com/download/mac/0.6.0).
 
 ## Install
 
@@ -35,6 +35,6 @@ The Homebrew-managed app also supports **Settings → Updates → Check for Upda
 
 [`Casks/ultimatevj.rb`](Casks/ultimatevj.rb) specifies the version, archive URL, SHA-256 checksum, and platform requirements. Homebrew downloads the prebuilt application from [GitHub Releases](https://github.com/weswalz/ULTIMATEVJ-releases/releases); it does not compile the application. Public builds are Developer ID signed and Apple notarized.
 
-The current channel contains Alpha builds. Install updates between shows and check the release notes before updating.
+The current channel is 0.6.0 Beta 2. Install updates between shows and check the release notes before updating.
 
 Developed and maintained by [Wes Walz](https://github.com/weswalz). Report application problems in the [release repository](https://github.com/weswalz/ULTIMATEVJ-releases/issues).
